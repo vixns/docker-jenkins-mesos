@@ -1,1 +1,1 @@
-# docker-mesos
+# docker-jenkins-mesos
